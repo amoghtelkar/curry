@@ -1,0 +1,12 @@
+{
+  "name": "curry",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "use curry function to do multiple arthmetic operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amogha telkar",
+  "license": "ISC"
+}
